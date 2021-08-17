@@ -1,4 +1,4 @@
-# Welcome to Local Simple Pet App
+# Welcome to Simple Pet App
 ## Tech Stack
 Osmi Kit apps include the following rock-solid technical decisions out of the box:
 - React Native
